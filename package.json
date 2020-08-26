@@ -1,0 +1,16 @@
+{
+    "name": "prettier-config-amati",
+    "version": "1.0.0",
+    "description": "Personal Prettier settings",
+    "main": ".prettierrc.json",
+    "repository": {
+      "type": "git",
+      "url": "git@github.com:amati/prettier-config-amati.git"
+    },
+    "keywords": [
+      "eslint",
+      "prettier"
+    ],
+    "author": "amati <preserde.gmail.com> (https://amati.io)",
+    "license": "MIT"
+  }
